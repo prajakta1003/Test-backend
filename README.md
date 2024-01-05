@@ -10,7 +10,7 @@ All API requests should be made to `http://localhost:4000/api`
 Make sure you have Node.js and npm installed
 #### Clone Repository
 ```bash
-  git clone https://github.com/pruthvii09/test-backend.git
+  git clone https://github.com/prajakta1003/Test-backend.git
   cd test-backend
 ```
 #### Install Node Modules
